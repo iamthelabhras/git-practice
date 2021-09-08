@@ -4,6 +4,6 @@
 
 ![How to say hello in Git.](https://larrymg.me/images/git_hello.png)
 
-*This repo was directly inspired by [Fireship's](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) recent (9/7/21) YouTube video, ["13 Advanced (but useful) Git Techniques and Shortcuts"](https://www.youtube.com/watch?v=ecK3EnyGD8o).*
+*This repo was directly inspired by [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)'s recent (9/7/21) YouTube video, ["13 Advanced (but useful) Git Techniques and Shortcuts"](https://www.youtube.com/watch?v=ecK3EnyGD8o).*
 
 
